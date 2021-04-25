@@ -1,0 +1,49 @@
+﻿FormatVersion: 7
+Name: "PostKiai 1"
+Script: "PostKiai"
+Config:
+  StartTime:
+    Type: "System.Int32"
+    Value: "86169"
+  EndTime:
+    Type: "System.Int32"
+    Value: "105934"
+  Head:
+    Type: "System.String"
+    Value: "sb/head.png"
+  HeadBlur:
+    Type: "System.String"
+    Value: "sb/headBlur.png"
+  CircleHead:
+    Type: "System.String"
+    Value: "sb/c2.png"
+  CircleBeat:
+    Type: "System.String"
+    Value: "sb/to.png"
+  BgSad:
+    Type: "System.String"
+    Value: "sb/bg_sad.png"
+  BgBlur:
+    Type: "System.String"
+    Value: "sb/bg_BLUR.png"
+  Line:
+    Type: "System.String"
+    Value: "sb/particle.png"
+  HeartGrow:
+    Type: "System.String"
+    Value: "sb/heart2.png"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  f5cdba471dc44d688594440193125e2c:
+    Name: "PostKiai"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  f5a97bf4fadb4a7c8414ed512de7c0d1:
+    Name: "HitObject"
+    OsbLayer: Foreground
+    DiffSpecific: Yes
+    Visible: Yes

@@ -1,0 +1,26 @@
+﻿FormatVersion: 7
+Name: "KiaiCursor 1"
+Script: "KiaiCursor"
+Config:
+  Line:
+    Type: "System.String"
+    Value: "sb/pixel.png"
+  StartTime:
+    Type: "System.Int32"
+    Value: "63581"
+  EndTime:
+    Type: "System.Int32"
+    Value: "86169"
+  Heart:
+    Type: "System.String"
+    Value: "sb/heart.png"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  c0e6d0c1cc0343f9af700b0d56ca16f9:
+    Name: "HitObject"
+    OsbLayer: Foreground
+    DiffSpecific: Yes
+    Visible: Yes

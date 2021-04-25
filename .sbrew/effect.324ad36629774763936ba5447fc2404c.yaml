@@ -1,0 +1,44 @@
+﻿FormatVersion: 7
+Name: "LastKiai 1"
+Script: "LastKiai"
+Config:
+  StartTime:
+    Type: "System.Int32"
+    Value: "227346"
+  EndTime:
+    Type: "System.Int32"
+    Value: "237228"
+  HeadCircle:
+    Type: "System.String"
+    Value: "sb/head.png"
+  CircleHead:
+    Type: "System.String"
+    Value: "sb/c2.png"
+  vigBG:
+    Type: "System.String"
+    Value: "sb/vig.png"
+  PixelBG:
+    Type: "System.String"
+    Value: "sb/pixel.png"
+  Heart:
+    Type: "System.String"
+    Value: "sb/heart2.png"
+  Flash:
+    Type: "System.String"
+    Value: "sb/flash.png"
+  BGGray:
+    Type: "System.String"
+    Value: "sb/bg_gray.jpg"
+  Thank:
+    Type: "System.String"
+    Value: "sb/thankyou.png"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  93672bfffdd54fa49f5fac083717fbbd:
+    Name: "LastKiai"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

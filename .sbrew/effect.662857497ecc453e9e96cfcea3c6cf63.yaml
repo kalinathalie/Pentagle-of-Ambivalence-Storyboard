@@ -1,0 +1,95 @@
+﻿FormatVersion: 7
+Name: "LyricVerso2 1"
+Script: "LyricVerso2"
+Config:
+  Line:
+    Type: "System.String"
+    Value: "sb/pixel.png"
+  Heart:
+    Type: "System.String"
+    Value: "sb/heart2.png"
+  SubtitlesPath:
+    Type: "System.String"
+    Value: "lyrics/Verso2.srt"
+  FontName:
+    Type: "System.String"
+    Value: "lyrics/Love.ttf"
+  SpritesPath:
+    Type: "System.String"
+    Value: "sb/lyrics/verso2"
+  FontSize:
+    Type: "System.Int32"
+    Value: "22"
+  FontScale:
+    Type: "System.Single"
+    Value: "0.8"
+  FontColor:
+    Type: "OpenTK.Graphics.Color4"
+    Value: "1,1,1,1"
+  FontStyle:
+    Type: "System.Int32"
+    Value: "0"
+    AllowedValues:
+      Regular: "0"
+      Bold: "1"
+      Italic: "2"
+      Underline: "4"
+      Strikeout: "8"
+  ShadowThickness:
+    Type: "System.Int32"
+    Value: "3"
+  ShadowColor:
+    Type: "OpenTK.Graphics.Color4"
+    Value: "0,0,0,0.5568628"
+  Padding:
+    Type: "OpenTK.Vector2"
+    Value: "0,0"
+  SubtitleY:
+    Type: "System.Single"
+    Value: "20"
+  TrimTransparency:
+    Type: "System.Boolean"
+    Value: "True"
+  EffectsOnly:
+    Type: "System.Boolean"
+    Value: "False"
+  Debug:
+    Type: "System.Boolean"
+    Value: "False"
+  First:
+    Type: "System.Boolean"
+    Value: "True"
+  StartTime:
+    Type: "System.Int32"
+    Value: "0"
+  EndTime:
+    Type: "System.Int32"
+    Value: "0"
+  Origin:
+    Type: "System.Int32"
+    Value: "4"
+    AllowedValues:
+      TopLeft: "0"
+      TopCentre: "1"
+      TopRight: "2"
+      CentreLeft: "3"
+      Centre: "4"
+      CentreRight: "5"
+      BottomLeft: "6"
+      BottomCentre: "7"
+      BottomRight: "8"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  6bed9bf2178d46988765af2d1a1cd4b3:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  f57c22e74d3b48ea999daba0cea0a261:
+    Name: "LyricVerso2"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

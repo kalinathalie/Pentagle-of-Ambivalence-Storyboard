@@ -1,0 +1,26 @@
+﻿FormatVersion: 7
+Name: "Intro 1"
+Script: "Intro"
+Config:
+  GrayBG:
+    Type: "System.String"
+    Value: "sb/bg_gray.jpg"
+  NormalBG:
+    Type: "System.String"
+    Value: "bg.jpg"
+  StartTime:
+    Type: "System.Int32"
+    Value: "1463"
+  EndTime:
+    Type: "System.Int32"
+    Value: "12758"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  6a58276484ce438a8e26cfdbd75f8173:
+    Name: "Intro"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

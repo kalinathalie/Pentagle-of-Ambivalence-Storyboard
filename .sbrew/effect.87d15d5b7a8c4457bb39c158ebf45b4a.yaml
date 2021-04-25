@@ -1,0 +1,35 @@
+﻿FormatVersion: 7
+Name: "VerseHit 1"
+Script: "VerseHit"
+Config:
+  StartTime:
+    Type: "System.Int32"
+    Value: "24052"
+  EndTime:
+    Type: "System.Int32"
+    Value: "35346"
+  BeatDivisor:
+    Type: "System.Int32"
+    Value: "8"
+  FadeTime:
+    Type: "System.Int32"
+    Value: "200"
+  Line:
+    Type: "System.String"
+    Value: "sb/pixel.png"
+  CursorPath:
+    Type: "System.String"
+    Value: "sb/pl.png"
+  SpriteScale:
+    Type: "System.Double"
+    Value: "1.5"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  b1b79639432a4530b0ebe42ea93f48c3:
+    Name: "HitObject"
+    OsbLayer: Foreground
+    DiffSpecific: Yes
+    Visible: Yes

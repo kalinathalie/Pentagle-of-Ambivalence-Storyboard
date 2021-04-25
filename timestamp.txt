@@ -1,0 +1,49 @@
+00:00:000 - 00:01:463 - Intro 0 - K4L1 presents OK
+00:01:463 - 00:12:758 - Intro 1 OK
+00:12:758 - 00:24:052 - Intro 2 OK
+00:24:052 - 00:35:346 - First Verso 1-2 OK
+00:35:346 - 00:52:287 - Second Verso 1-2-3 OK
+00:52:287 - 01:03:581 - pre Kiai
+01:03:581 - 01:26:169 - Kiai
+01:26:169 - 01:31:816 - Verso 3
+01:31:816 - 01:37:463 - Verso 4
+01:37:463 - 01:47:346 - Verso 5
+01:47:346 - 01:48:758 - Transicao
+01:48:758 - 02:00:052 - Bridge
+02:00:052 - 02:05:699 - Build-Up
+02:05:699 - 02:28:287 - Kiai 2
+02:28:287 - 02:45:288 - Bridge 2
+02:45:288 - 03:07:816 - Pre Build-Up
+03:07:816 - 03:17:699 - Build-Up 2
+03:17:699 - 03:19:111 - Transicao 2
+03:19:111 - 03:24:758 - Viadagem
+03:24:758 - 03:47:346 - Kiai 3
+03:47:346 - 03:58:640 - Verso 6
+
+00:01:464 -  intro o bg aparece aos pouco em preto e branco e se completa até aqui 00:12:758 - 
+ao decorrer seria bom aplicar um pequeno efeito de luz de 1 segundo em volta da notas principais no tick branco como 00:01:464 -  00:02:875 -  00:04:287 -  00:05:699 -  00:07:111 -  00:08:522 -  00:09:934 -   00:11:346 -  00:12:758 -
+
+00:12:758 -  daqui em diante pode começar um processo de colorização   do bg 00:24:052 - 
+
+00:24:052 -  acho como é o começo ainda das ideias seria bom botar um spectrum  até o fim  03:58:640 - 
+
+00:52:287 -  até 01:03:581 -  se poderia deixar um fundo totalmente preto(ou se basear totalmente nessa parte de secret desires 03:52:674 - )  pq tipo os lyricos dessa parte falam de uma procura dificil  vamo dar essa ideia escurecendo o fundo de só iluminando as batidas desta parte com o fundo totalmente preto
+
+01:03:581 -   voce pode mudar o tempo climatico do bg para um cenario de dia mais azulado e ensolarado tirando esse clima de manhã/madrugada, algo mais colorido de azul, até 01:26:169 - 
+
+01:26:169 -  volta o bg amanhecido xD até 01:48:758 - 
+
+01:48:758 -  aqui volta tambem o bg em preto e branco até 02:05:699 - 
+
+02:05:699 -   aqui o background muda para um cenario a noite com um ceu azul escuro até aqui 02:28:287 - 
+
+02:28:287 - aqui até 02:45:228 -  voce pode deixar um fundo escuro, apenas passando os lyrics da musica
+
+02:45:228 -  aqui o fundo escuro vai sumindo e o bg em preto em branco vai aparecendo aos poucos até aqui 02:56:522 - 
+
+02:56:522 -  nesse ponto o bg em preto e branco vai estar por completo nisso voce pode complementar fazendo que mini partículas surjam de baixo pra cima pra dar uma sensação de build up até 03:07:816 - 
+
+03:07:816 -  aqui o bg ganha mais colorização até 03:19:111 - 
+03:19:111 -  ai aqui se volta ao preto e branco só que com um efeito de blur 
+03:23:346 -  aqui se aplica um forte flash que vai dar intro ao ultimo kiai 03:24:758 -
+03:24:758 -  aqui se vai aplicar o cenario de noite novamente só que com uns adicionais, por exemplo, se possivel usar o azul do ceu de noite e implementar umas estrelas nele, e botar novamente o efeito de particulas com 2 ou mais formas como pequenas "estrelas" ou "pontinhos", " corações", "doces" para mostrar a ternura da parte
